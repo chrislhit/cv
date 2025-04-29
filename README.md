@@ -57,14 +57,17 @@
 
 ### **Job Briefing Overview**
 
-Cristian Lucan is a senior IT Project Manager with 20+ years of experience delivering complex IT initiatives across public and private sectors. He specializes in aligning technology solutions with business goals, ensuring on-time, on-budget delivery with a strong focus on quality.
+I am a seasoned IT Project Manager with over two decades of experience leading complex IT initiatives and aligning technology solutions with evolving business objectives. I consistently deliver projects on time, within budget, and to high quality standards by strategically leveraging resources and team strengths.
 
-With hands-on expertise in PM2, PRINCE2, and PMI methodologies, Cristian manages full project lifecycles—from scope definition and task planning to risk mitigation and performance tracking. He effectively leads cross-functional teams, ensuring technical and business alignment throughout.
+My approach blends strategic planning with hands-on execution. I excel in defining scopes, structuring tasks, coordinating cross-functional deliverables, and proactively managing risks. I ensure that outcomes meet both technical and functional expectations.
 
-Cristian maintains strong stakeholder engagement through regular working groups and progress meetings, ensuring transparency and adaptability across all phases. He is proficient in tools like MS Project, Jira, and Confluence, and often builds custom tools to enhance project tracking and reporting.
+I maintain strong stakeholder engagement through regular participation in working groups and progress reviews, ensuring clear communication across business units, IT teams, and leadership. This collaboration helps drive alignment and transparency throughout the project lifecycle.
 
-Adept at cost estimation, scope control, and change management, Cristian consistently delivers results in evolving environments. He combines strategic oversight with technical understanding, including knowledge of relational databases and systems integration.
+With expertise in PM2, PRINCE2, and PMI methodologies, I apply structured practices for planning, change control, and reporting. I use tools like MS Project, Jira, and Confluence to manage timelines, allocate resources, and track KPIs—often developing custom solutions for better reporting and oversight.
 
-He communicates confidently across all levels of an organization, delivering clear reports and presentations tailored to diverse audiences.
+I work closely with senior stakeholders to refine estimates, adjust priorities, and adapt to evolving requirements without compromising project stability. I am committed to quality throughout each phase, actively managing risks and ensuring timely resolution of issues.
+
+My technical background, particularly with relational databases, allows me to contribute meaningfully to both technical and business discussions. I regularly deliver clear, tailored presentations to a variety of audiences and excel at translating complex topics into actionable insights.
+
 
 
