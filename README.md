@@ -7,7 +7,7 @@
 - **Email:** crislucan@gmail.com  
 - **Date of Birth:** June 13, 1972  
 - **Nationality:** Romanian  
-- **Contract Type:** Freelancer  
+- **Contract Type:** Freelancer
 - **Company:** Lucan Holding Software  
 - **Current Role:** Product/Project Manager  
 - **Target Role:** IT Project Manager  
