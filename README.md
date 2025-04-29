@@ -240,3 +240,52 @@ European Commission
   - **Tools & Platforms:** Jira, Git/Gitea, GitLab, GitHub, Bitbucket, Jenkins, Hudson, Ansible/Terraform, Nagios (monitoring), Red Hat, Ubuntu, Linux, Unix, Windows, VisualGC, JConsole, JCMD, JMap, JStat, Jhat, Jinfo.
   - **Other Technologies:** Hadoop, Hive, PowerShell Scripting, JSP, Security, Blockchain, UI/UX Design, Mobile Integration.
 
+## PROJECT EXPERIENCE
+
+### **Project Name:**  
+Mobile Portfolio Project Manager
+
+### **Company (Employer):**  
+1&1, Bucharest, RO
+
+### **Dates (Start-End):**  
+07/2012 – 05/2018
+
+### **Effective Number of Months Achieved:**  
+83 months
+
+### **Client (Customer):**  
+Bucharest 1&1 Hosting
+
+### **Project Description:**  
+1&1 established a new mobile development division in April 2012, initially hiring six developers (3 iOS, 3 Android) as a cross-functional team. The primary mission was to support rapid mobile growth by expanding 1&1’s existing portfolio to meet customer demands. The division has since grown to a team of 10, including iOS and Android developers, a Scrum Master, a Project Manager (PM), a QA specialist, and myself.
+
+### **Employee’s Roles & Responsibilities in the Project:**  
+**Role:** Project Manager & Team Lead  
+
+**Project Management (PM) Responsibilities:**
+- Led and organized the Mobile Development Department's growth strategy for 1&1.
+- Defined and executed the mobile strategy for 2013 to ensure customer retention and address mobile market gaps.
+- Spearheaded the “Mobile Awareness Process,” ensuring that all project managers and product owners integrated mobile components into their projects.
+- Managed cross-functional teams and streamlined the development process to align with market trends.
+- Facilitated sprint planning, retrospectives, and backlog grooming in Agile environments (Scrum/Kanban).
+- Maintained close collaboration with stakeholders to ensure product-market fit.
+- Implemented an entrepreneurial model of partnership with stakeholders to ensure each project had its mobile version.
+
+**Technical & Strategic Responsibilities:**
+- Restructured the software development lifecycle to parallelize projects, increasing efficiency and output.
+- Defined and introduced a mobile-friendly design approach across all platforms (phones and tablets).
+- Implemented a style guide for both iOS and Android, ensuring consistency across applications.
+- Ensured product quality, achieving 4+ star ratings on both the App Store and Google Play.
+- Owned the specification and integration of mobile products into the existing portfolio.
+
+### **Technologies and Methodologies Used by the Employee in the Project:**  
+**Technologies:**  
+- iOS (Swift, Objective-C), Android (Kotlin, Java), SQLite, Web Services (REST APIs), Mobile UI/UX, Elastic distributed DB, MySQL, PostgreSQL, AWS, DynamoDB, Cloud, Linux, Ubuntu, Kubernetes, AI, Big Data, Data Lakes, Java, Go.
+
+**Project Management & Methodologies:**  
+- Agile (Scrum, Kanban), Sprint Planning, Burndown Charts, Velocity Tracking, Retrospectives, Risk Analysis, MS Project, Word, Excel.
+
+**Tools:**  
+- JIRA, Confluence, Git, Scripting (Bash, Python), AWS, Kubernetes.
+
