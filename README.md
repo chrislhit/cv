@@ -194,4 +194,49 @@ The project leveraged advanced performance monitoring, ETL pipelines, and big da
 
 ---
 
+## PROJECT EXPERIENCE
+
+### **Project name:** 
+Search Engine for 53 DG Units Inside EU
+
+### **Company (employer):**  
+Engineering
+
+### **Dates (start-end):**  
+06/2018 – 08/2019
+
+### **Effective number of months achieved:**  
+15 months
+
+### **Client (customer):**  
+European Commission
+
+### **Project size:**  
+10 Senior People
+
+### **Project description:**  
+“Corporate Search Engine” is the internal search engine of the European Commission, developed to index all EC documents from various data sources and make them available for internal use between its units.
+
+### **Employee’s Roles & Responsibilities in the project:**  
+**Role:** Project/Product Manager & Software Engineer  
+- Responsible for driving development planning and defining the final product documentation, functionality, and features across various sectors, units, and technologies.
+- Articulated cross-sector vision, built strategy, and implemented it.
+- Developed and mapped business architecture to reflect in IT architecture.
+- Addressed continuity gaps (business needs, processes, SWAT analysis, etc.).
+- Led cross-organizational alignment globally across heterogeneous IT perspectives.
+- Oversaw the development of reusable source platforms (RSP), IT governance, micro-services-oriented IT, and infrastructure architecture aligned with business requirements.
+- Led leadership management, resource allocation, budgeting, and ensured client accountability.
+- Managed global and local project planning and delivery, including forecasting, planning, resource allocation, and roadmap definition.
+
+### **Technologies and methodologies used by the employee in the project:**  
+- **Methodologies & Tools:**  
+  - PMP, PM2 (as defined by the European Commission), PMI, PRINCE2, Lean, Trello, Slack, Jira, Wiki, Confluence, SharePoint, Agile, MS Project, Word, Excel, Scrum, Release Management, Change Management, Time Tracking, Risk Analysis, Git, CI/CD.
+  
+- **Technical Stack:**  
+  - **Languages & Frameworks:** Java (7, 8), J2EE, Python, JSP, NodeJS, Perl, PHP, HTML, CSS, JavaScript, Go, Objective-C, Swift.
+  - **Databases & Data Technologies:** SQLite, PL/SQL, SQL, Oracle RDBMS, MS-SQL, PostgreSQL, MySQL, DynamoDB, MongoDB, Kafka, Elastic Search.
+  - **Architectures & Systems:** Micro-services, SOA, Web Logic, ETL, ELT, Apache, Tomcat, HTTP, Web Services, API, ESB, dBUS, REST, JSON.
+  - **Cloud & Distributed Systems:** AWS, Kubernetes, Docker, Cloud Solution Architect, HPC, BaaS, SaaS.
+  - **Tools & Platforms:** Jira, Git/Gitea, GitLab, GitHub, Bitbucket, Jenkins, Hudson, Ansible/Terraform, Nagios (monitoring), Red Hat, Ubuntu, Linux, Unix, Windows, VisualGC, JConsole, JCMD, JMap, JStat, Jhat, Jinfo.
+  - **Other Technologies:** Hadoop, Hive, PowerShell Scripting, JSP, Security, Blockchain, UI/UX Design, Mobile Integration.
 
