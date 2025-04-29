@@ -54,3 +54,17 @@
 - **DevOps Tools:** Git, CI/CD  
 - **Expertise:** Release & Change Management, Reporting, Stakeholder Communication
 
+
+### **Job Briefing Overview**
+
+Cristian Lucan is a senior IT Project Manager with 20+ years of experience delivering complex IT initiatives across public and private sectors. He specializes in aligning technology solutions with business goals, ensuring on-time, on-budget delivery with a strong focus on quality.
+
+With hands-on expertise in PM2, PRINCE2, and PMI methodologies, Cristian manages full project lifecycles—from scope definition and task planning to risk mitigation and performance tracking. He effectively leads cross-functional teams, ensuring technical and business alignment throughout.
+
+Cristian maintains strong stakeholder engagement through regular working groups and progress meetings, ensuring transparency and adaptability across all phases. He is proficient in tools like MS Project, Jira, and Confluence, and often builds custom tools to enhance project tracking and reporting.
+
+Adept at cost estimation, scope control, and change management, Cristian consistently delivers results in evolving environments. He combines strategic oversight with technical understanding, including knowledge of relational databases and systems integration.
+
+He communicates confidently across all levels of an organization, delivering clear reports and presentations tailored to diverse audiences.
+
+
