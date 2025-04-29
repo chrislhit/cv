@@ -96,5 +96,41 @@ The platform is designed as a **scalable, enterprise-grade system** with the cap
 ---
 
 
+### **Role & Responsibilities**
+
+- **Position:** Main Project Manager / Project Owner / Cloud Implementation Supervisor  
+
+#### **Key Responsibilities**
+- Directed the entire project lifecycle to ensure alignment with business objectives and successful delivery within scope, time, and budget.
+- Led cross-functional teams, managing resources and balancing project constraints such as time, cost, and personnel.
+- Oversaw requirements gathering and continuously adapted scope in response to evolving technical and business needs.
+- Acted as the key liaison between stakeholders and technical teams, ensuring transparency and consistent communication.
+- Supervised the design and deployment of a scalable, cloud-agnostic Kubernetes infrastructure compatible with EKS, GKE, AKS, OpenStack, and Rancher.
+- Ensured performance and SLA compliance (target: 1 billion file transactions), emphasizing system scalability, automation, and resilience.
+
+---
+
+### **Methodologies & Tools Used**
+
+- **Project Management:** PM2, PRINCE2, PMI, PMP, Agile, Waterfall, Scrum, Lean  
+- **Planning & Collaboration:** MS Project, Jira, Confluence, Trello, Slack, Wiki, Excel, Word  
+- **Product & Portfolio:** Product Roadmap, Ownership, Portfolio Management, Time Tracking, Risk Analysis, Change & Release Management  
+
+---
+
+### **Technologies Used**
+
+- **Backend:** Golang (Go), Java, PHP, Python, Bash, Scripting  
+- **Frontend:** Angular, HTML, CSS, JavaScript (JS), UI/UX  
+- **Architecture:** Microservices, CI/CD, Docker, Git  
+- **Data Management:** PostgreSQL, MySQL, SQLite, MongoDB, DynamoDB, ElasticSearch/OpenSearch  
+- **Messaging & Streaming:** Apache Kafka  
+- **Caching & Performance:** Redis  
+- **Big Data & Processing:** Apache Hadoop, Apache Spark, Data Lake  
+- **Cloud & Infrastructure:** Kubernetes (OpenStack, EKS, GKE, AKS, Rancher), AWS, Linux (Ubuntu), Ansible, Terraform  
+- **Other:** AI/ML components under exploratory stages  
+
+---
+
 
 
