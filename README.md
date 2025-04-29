@@ -133,4 +133,65 @@ The platform is designed as a **scalable, enterprise-grade system** with the cap
 ---
 
 
+## **CV – Professional Experience**
+**Page 2**
+
+---
+
+### **Project Experience**
+
+- **Project Name:** sBMS Migration Tool  
+- **Company (Employer):** IDEMIA Technology  
+- **Client (Customer):** EU-LISA (Strasbourg) / Romania Government  
+- **Project Duration:** September 2019 – July 2023  
+- **Effective Duration:** 47 months  
+- **Team Size & Budget:** 26 People, €5M  
+
+#### **Project Description**
+
+The **sBMS Migration Tool** project focused on developing a high-throughput data migration system capable of processing **20 million biometric (NIST) files per day** to comply with updated standards in the EU-LISA environment. This initiative was part of a broader BAUCIS consortium delivery under strict EU tendering conditions, ensuring seamless interoperability and alignment with the evolving sBMS system.
+
+The project leveraged advanced performance monitoring, ETL pipelines, and big data frameworks to meet SLA requirements. Technologies like Hadoop, Redis, ELK, and custom Wire House modules were used to ensure performance, resilience, and full compliance with European data security and quality standards.
+
+---
+
+### **Role & Responsibilities**
+
+- **Position:**  
+  - Main Project Manager  
+  - Promoted to Program Manager – Romania  
+  - Technical Solution Advisor & Strategist (until Entry into Operation)
+
+#### **Key Responsibilities**
+- Built the IDEMIA Romania “EU-LISA” delivery team from scratch, leading 26 specialists across technical and project roles.
+- Defined the Migration Tool's technical solution in collaboration with architects and engineers.
+- Acted as liaison within the BAUCIS consortium, ensuring milestone alignment and delivery synchronization.
+- Implemented enterprise-level governance processes and trained the team in EU PRINCE2 / PM2 methodologies.
+- Led the end-to-end delivery and final on-site deployment of the Migration Tool at the **EU-LISA Strasbourg facility (Dec 18–22, 2023)**.
+- Maintained **ORNIS Security Clearance** (RO Gov).
+- Ensured alignment with **EU-LISA ITSM** best practices including Incident, Problem, Change, Service Level, and Configuration Management.
+
+---
+
+### **Methodologies & Tools Used**
+
+- **Project Management:** PRINCE2 (EU Customized), PM2, PMP, Agile/Scrum, Waterfall (Gov), Kanban  
+- **Collaboration & Tracking:** JIRA, MS Project, Confluence, Trello, Slack, Wiki, Microsoft Teams, Zoom, Google Meet  
+- **Governance & Planning:** Product Ownership, Portfolio Management, Time Tracking, Risk Analysis, Release & Change Management, Lean  
+- **Documentation & Reporting:** Doors (Requirements), Excel, Word, PowerPoint  
+
+---
+
+### **Technologies Used**
+
+- **Web & UI:** HTML, CSS, JavaScript, TypeScript, Angular, React, UI/UX  
+- **Backend & Scripting:** Golang (Go), Java, PHP, Python, Bash  
+- **APIs & Services:** REST, gRPC, Web Services  
+- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB, DynamoDB, ElasticSearch  
+- **Architecture & DevOps:** Microservices, Docker, Kubernetes (OpenStack, AWS, Azure), CI/CD, Ansible, Terraform  
+- **Big Data & AI:** Apache Hadoop, Kafka, ELK Stack, PyTorch, OpenAI, MLOps, Data Lake, Deep Learning  
+- **Security & Compliance:** EU ITSM Frameworks, Data Regulation Practices  
+
+---
+
 
