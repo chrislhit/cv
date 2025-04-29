@@ -289,3 +289,122 @@ Bucharest 1&1 Hosting
 **Tools:**  
 - JIRA, Confluence, Git, Scripting (Bash, Python), AWS, Kubernetes.
 
+
+## PROJECT EXPERIENCE
+
+### **Project Name:**  
+Paraiso
+
+### **Company (Employer):**  
+TotalSoft, Bucharest, RO
+
+### **Dates (Start-End):**  
+04/2010 – 06/2012
+
+### **Effective Number of Months Achieved:**  
+27 months
+
+### **Client (Customer):**  
+Novero GMBH, VW, Audi
+
+### **Project Description:**  
+"Paraiso" was an OEM proprietary Android OS-based phone. The Bucharest division was responsible for software development across all 4 layers of the Android OS: Linux C++ layer, C++ library layer, Java API layer, and Java application layer. The hardware component was developed by the German teams in Düsseldorf.
+
+### **Employee’s Roles & Responsibilities in the Project:**  
+- Product Owner and Manager, responsible for software functionalities and hardware integration.
+- Java developer for the API and application layers.
+- Linux C++ Kernel and Driver Developer for memory, I2C, MISO/MOSI, CPU, and other hardware components.
+- Developed a Java Enterprise application to track device issues.
+- Integrated the system with various telecom carriers based on exposed APIs.
+
+### **Technologies and Methodologies Used:**  
+- **Technologies:** Java (J2EE, Java Embedded), C/C++, Android, Linux, RESTful APIs, Web Services, JDBC, Git, SQLite, Objective-C, Swift.
+- **Tools:** Jenkins, Gerrit, GitHub, Jira, Confluence, Eclipse.
+- **Methodologies:** Continuous Integration, Agile (Scrum), Risk Analysis.
+
+---
+
+### **Project Name:**  
+CRAM- SDS (Sleeping Detection System)
+
+### **Company (Employer):**  
+ECT, Embedded System Control, Montreal, QC, CA
+
+### **Dates (Start-End):**  
+07/2008 – 03/2010
+
+### **Effective Number of Months Achieved:**  
+21 months
+
+### **Client (Customer):**  
+Intern Proprietary Product
+
+### **Project Description:**  
+The project developed an automotive device that alerts drivers about fatigue or drowsiness tendencies, preventing accidents. The product was launched on September 29, 2009, receiving media coverage.
+
+### **Employee’s Roles & Responsibilities in the Project:**  
+- Led product development, including roadmap creation, scheduling, and budgeting.
+- Managed a team of 4 engineers and 12 indirect reports.
+- Oversaw hardware and software integration.
+- Managed relationships with key suppliers for component sourcing.
+
+### **Technologies and Methodologies Used:**  
+- **Technologies:** Linux, Java, PHP, HTML, CSS, JS.
+- **Tools:** Jira, Confluence, MS Project.
+- **Methodologies:** PMP, Agile, Scrum, Risk Assessment.
+
+---
+
+### **Project Name:**  
+ISP Main Backbone Server Suite Application
+
+### **Company (Employer):**  
+Cogeco Canada
+
+### **Dates (Start-End):**  
+08/2002 – 06/2008
+
+### **Effective Number of Months Achieved:**  
+54 months
+
+### **Client (Customer):**  
+Cogeco Canada
+
+### **Project Description:**  
+Maintained a SUN V880 server as the main backbone for a network system connecting over 250,000 live modems, 4500 nodes, and 100 UBRs to provide internet connectivity in North Toronto.
+
+### **Employee’s Roles & Responsibilities in the Project:**  
+- Developed and maintained various network and client-server applications.
+- Built a modular application for managing web hosting servers.
+- Implemented monitoring and NOC support applications.
+
+### **Technologies and Methodologies Used:**  
+- **Technologies:** Java, J2EE, PHP, JSP, Perl, Shell scripting, TCP/IP.
+- **Tools:** Git, Jira, Confluence.
+- **Methodologies:** Agile, Scrum.
+
+---
+
+### **Project Name:**  
+WAN Monitoring System
+
+### **Company (Employer):**  
+Deutsche Telekom, Frankfurt, DE
+
+### **Dates (Start-End):**  
+01/2000 – 07/2002
+
+### **Effective Number of Months Achieved:**  
+31 months
+
+### **Client (Customer):**  
+T-System
+
+### **Project Description:**  
+Developed a monitoring system using dedicated server "probes" to track server status, failures, IP collisions, imbalanced traffic, and security threats in real time.
+
+### **Technologies and Methodologies Used:**  
+- **Technologies:** Server monitoring, SNMP, TCP/IP, Bash.
+- **Tools:** Jira, Confluence.
+- **Methodologies:** Agile, Scrum.
+
