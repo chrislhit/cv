@@ -71,3 +71,30 @@ My technical background, particularly with relational databases, allows me to co
 
 
 
+## **CV – Professional Experience**
+**Page 1**
+
+---
+
+### **Project Experience**
+
+- **Project Name:** Biometric Exchange Interface  
+- **Company (Employer):** Lucan Holding Software  
+- **Client (Customer):** Romanian Government Entities  
+- **Project Duration:** August 2023 – Present  
+- **Effective Duration:** 20 months  
+- **Team Size:** 29 people  
+
+#### **Project Description**
+
+The **Biometric Exchange Interface** project is a strategic national initiative focused on standardizing biometric data files across Romanian government systems using the NIST format. Previously, most biometric software providers (e.g., Idemia, Thales) maintained proprietary and incompatible NIST implementations, severely limiting interoperability and making data exchange between platforms highly challenging.
+
+This project delivers a robust, vendor-neutral solution that enables the **manipulation, transformation, migration, extraction, and generation** of biometric data across multiple ecosystems. It eliminates interoperability issues by offering an advanced bridge between proprietary systems and a common NIST standard.
+
+The platform is designed as a **scalable, enterprise-grade system** with the capability to manage an SLA of up to **1 billion files**. It is deployed on a **cloud-agnostic Kubernetes architecture**, compatible with EKS, GKE, AKS, OpenStack, Rancher, and other K8s-compliant environments—ensuring maximum adaptability, performance, and resilience across infrastructures.
+
+---
+
+
+
+
